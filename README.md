@@ -7,6 +7,8 @@ To use this project, just compile all these files into one executable and launch
 
 I wrote the first version in 2004, so it's using the coding style from that period.
 
+Here are a couple of generated solutions.  The coordinates are x, y.  You can think of x as index into a row.
+
 
 	From: 0, 2	to	0, 4
 	From: 2, 2	to	0, 2
@@ -21,7 +23,7 @@ I wrote the first version in 2004, so it's using the coding style from that peri
 	From: 4, 0	to	2, 0
 	From: 1, 2	to	1, 0
 	From: 3, 1	to	1, 1
-*
+
 
 	From: 0, 2	to	0, 4
 	From: 2, 2	to	0, 2
@@ -36,4 +38,4 @@ I wrote the first version in 2004, so it's using the coding style from that peri
 	From: 1, 0	to	3, 0
 	From: 4, 0	to	2, 0
 	From: 2, 0	to	0, 0
-*
+
